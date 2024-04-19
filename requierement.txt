@@ -1,1 +1,4 @@
-
+pandas: Version: 2.2.2
+plotly : Version: 5.21.0
+streamlit : Version: 1.33.0
+Version python : Python 3.9.6
