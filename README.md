@@ -28,6 +28,9 @@ Prix-carburants.csv : le fichier CSV avec les données carburants.
 Projet.ipynb : Le fichier python qui nous as servi a bien traiter les données.
 
 
+Prédictions.ipynb : C'est le fichier python ou se trouve le modèle de prédiction
+
+
 
 
 Il faudra d'abord lancer le projet.ipynb et ensuite le fichier Dashboard.py.
